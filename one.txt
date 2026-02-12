@@ -1,0 +1,27 @@
+Acme Corporation
+Consolidated Statements of Income
+(In millions of USD, except per share amounts)
+
+                                 Year Ended December 31,
+                                 2023       2022       2021
+Revenue
+   Total revenue                12,450     11,200     10,000
+Cost of revenue                  7,200      6,800      6,000
+Gross profit                     5,250      4,400      4,000
+
+Operating expenses
+   Research and development      1,100      1,000        900
+   Selling, general and administrative 2,300  2,100      1,900
+Operating income                 1,850      1,300      1,200
+
+Interest expense, net              150        140        130
+Other income, net                   50         30         20
+Income before income taxes       1,750      1,190      1,090
+
+Provision for income taxes         350        240        220
+
+Net income                       1,400      1,000        870
+
+Earnings per share
+   Basic                            5.60       4.00       3.48
+   Diluted                          5.50       3.95       3.45

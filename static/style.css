@@ -1,0 +1,15 @@
+body { font-family: Arial, sans-serif; background: #f8f9fa; margin: 0; padding: 40px; }
+.container { max-width: 900px; margin: 0 auto; background: white; padding: 40px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+h1 { color: #1a1a1a; text-align: center; }
+h2 { color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+button, .download-btn { background: #0066cc; color: white; padding: 12px 24px; border: none; border-radius: 4px; cursor: pointer; font-size: 16px; }
+button:hover, .download-btn:hover { background: #0052a3; }
+select, input[type=file] { padding: 10px; font-size: 16px; width: 100%; margin: 10px 0; }
+.table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+.table th, .table td { border: 1px solid #ddd; padding: 12px; text-align: right; }
+.table th { background: #f5f5f5; text-align: left; }
+.tone.optimistic { color: green; font-weight: bold; }
+.tone.pessimistic { color: red; font-weight: bold; }
+.back-link { float: right; color: #0066cc; text-decoration: none; }
+.metadata { background: #f0f8ff; padding: 15px; border-radius: 4px; margin: 20px 0; }
+.error { color: red; font-weight: bold; }
